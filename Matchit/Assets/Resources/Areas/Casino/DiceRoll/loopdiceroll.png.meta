@@ -1,0 +1,518 @@
+fileFormatVersion: 2
+guid: b554818df54335e40a9cc9dc0ecbb9b8
+timeCreated: 1451563739
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: loopdiceroll_0
+    21300002: loopdiceroll_1
+    21300004: loopdiceroll_2
+    21300006: loopdiceroll_3
+    21300008: loopdiceroll_4
+    21300010: loopdiceroll_5
+    21300012: loopdiceroll_6
+    21300014: loopdiceroll_7
+    21300016: loopdiceroll_8
+    21300018: loopdiceroll_9
+    21300020: loopdiceroll_10
+    21300022: loopdiceroll_11
+    21300024: loopdiceroll_12
+    21300026: loopdiceroll_13
+    21300028: loopdiceroll_14
+    21300030: loopdiceroll_15
+    21300032: loopdiceroll_16
+    21300034: loopdiceroll_17
+    21300036: loopdiceroll_18
+    21300038: loopdiceroll_19
+    21300040: loopdiceroll_20
+    21300042: loopdiceroll_21
+    21300044: loopdiceroll_22
+    21300046: loopdiceroll_23
+    21300048: loopdiceroll_24
+    21300050: loopdiceroll_25
+    21300052: loopdiceroll_26
+    21300054: loopdiceroll_27
+    21300056: loopdiceroll_28
+    21300058: loopdiceroll_29
+    21300060: loopdiceroll_30
+    21300062: loopdiceroll_31
+    21300064: loopdiceroll_32
+    21300066: loopdiceroll_33
+    21300068: loopdiceroll_34
+    21300070: loopdiceroll_35
+    21300072: loopdiceroll_36
+    21300074: loopdiceroll_37
+    21300076: loopdiceroll_38
+    21300078: loopdiceroll_39
+    21300080: loopdiceroll_40
+    21300082: loopdiceroll_41
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 46
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: loopdiceroll_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 368
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: loopdiceroll_1
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 368
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: loopdiceroll_2
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 368
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: loopdiceroll_3
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 368
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: loopdiceroll_4
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 368
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: loopdiceroll_5
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 368
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: loopdiceroll_6
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 368
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: loopdiceroll_7
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 368
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: loopdiceroll_8
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 368
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: loopdiceroll_9
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 368
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: loopdiceroll_10
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 368
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: loopdiceroll_11
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 368
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: loopdiceroll_12
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 368
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: loopdiceroll_13
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 368
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: loopdiceroll_14
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 368
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: loopdiceroll_15
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 368
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: loopdiceroll_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 322
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: loopdiceroll_17
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 322
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: loopdiceroll_18
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 322
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: loopdiceroll_19
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 322
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: loopdiceroll_20
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 322
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: loopdiceroll_21
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 322
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: loopdiceroll_22
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 322
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: loopdiceroll_23
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 322
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: loopdiceroll_24
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 322
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: loopdiceroll_25
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 322
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: loopdiceroll_26
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 322
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: loopdiceroll_27
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 322
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: loopdiceroll_28
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 322
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: loopdiceroll_29
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 322
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: loopdiceroll_30
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 322
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: loopdiceroll_31
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 322
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: loopdiceroll_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 276
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: loopdiceroll_33
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 276
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: loopdiceroll_34
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 276
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: loopdiceroll_35
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 276
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: loopdiceroll_36
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 276
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: loopdiceroll_37
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 276
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: loopdiceroll_38
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 276
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: loopdiceroll_39
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 276
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: loopdiceroll_40
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 276
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: loopdiceroll_41
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 276
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
